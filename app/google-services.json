@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578018561727",
+    "project_id": "esandpa2024",
+    "storage_bucket": "esandpa2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578018561727:android:26bd966103a800071b400a",
+        "android_client_info": {
+          "package_name": "com.example.firebasedpa24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTX2La41y-V-3xgCpeL2cHKS4i6taWWgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
