@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FirebaseDPA24</string>
+    <string name="valetfullname">Full name</string>
+    <string name="valetcountry">Country</string>
+    <string name="valetemail">Email</string>
+    <string name="valetpassword">Password</string>
+    <string name="valbtsaveregister">SAVE</string>
 </resources>
