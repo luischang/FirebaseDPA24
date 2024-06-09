@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_stadium">
+    <fragment
+        android:id="@+id/nav_animals"
+        android:name="com.example.firebasedpa24.ui.fragments.AnimalsFragment"
+        android:label="fragment_animals"
+        tools:layout="@layout/fragment_animals" />
+    <fragment
+        android:id="@+id/nav_register"
+        android:name="com.example.firebasedpa24.ui.fragments.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" />
+    <fragment
+        android:id="@+id/nav_stadium"
+        android:name="com.example.firebasedpa24.ui.fragments.StadiumFragment"
+        android:label="fragment_stadium"
+        tools:layout="@layout/fragment_stadium" />
+</navigation>

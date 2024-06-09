@@ -46,7 +46,7 @@ class LoginActivity : AppCompatActivity() {
                             , Snackbar.LENGTH_LONG
                         ).show()
                         startActivity(Intent(this
-                            , MainActivity::class.java))
+                            , PrincipalActivity::class.java))
                     }else{
                         Snackbar.make(
                             findViewById(android.R.id.content)
