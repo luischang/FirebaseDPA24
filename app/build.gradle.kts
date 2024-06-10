@@ -62,4 +62,10 @@ dependencies {
 
     //Picasso
     implementation("com.squareup.picasso:picasso:2.7+")
+
+    implementation("com.google.ai.client.generativeai:generativeai:0.7.0")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4")
+    implementation ("io.noties.markwon:core:4.6.2") // Usa la última versión disponible
+
+
 }
